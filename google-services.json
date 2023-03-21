@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "281988556992",
+    "project_id": "basic-auth-ff301",
+    "storage_bucket": "basic-auth-ff301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281988556992:android:b29ec0952e88b4e0522525",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281988556992-s3lbc12smo7q9qg72o4jv62jb1391ni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZC7YOiaolCp61c3f16FmiPNzPPTD0sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281988556992-s3lbc12smo7q9qg72o4jv62jb1391ni3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281988556992-vbbs6p8ddlf60mbffvhqocfqeevke83u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
